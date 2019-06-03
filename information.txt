@@ -1,0 +1,6 @@
+_Related paper:
+https://l.facebook.com/l.php?u=https%3A%2F%2Farxiv.org%2Fpdf%2F1902.01496v3.pdf%3Ffbclid%3DIwAR2zbIv5_adWI8cmaGDmu0hNmlElw47HwrFtPFWiehyMXdkiGCpmnCWkCUc&h=AT1B-jI90JF_QLUYxv3s3oUcZVOtiOvlzOw_9uHTK1jUiljhTAr4NDB1uk3QPA9aGMGGBgpY2MY1k_FQEORAF6GpvTMFdkZ5E0mlF4w8FCot7QJY_LQ8bPXIFJPP_q17ENXDKA
+
+
+_Data source:
+https://medusa.fit.vutbr.cz/traffic/research-topics/general-traffic-analysis/holistic-recognition-of-low-quality-license-plates-by-cnn-using-track-annotated-data-iwt4s-avss-2017/?fbclid=IwAR3uZMi7_S9mf2-4aXy_ElB_gS4jBLcqs-RfhR6GNjcXb1Hrs_1kPvq6htc
