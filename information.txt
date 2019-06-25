@@ -8,3 +8,5 @@ http://iitlab.bit.edu.cn/mcislab/vehicledb/
 https://thigiacmaytinh.com/tai-nguyen-xu-ly-anh/
 https://thigiacmaytinh.com/tai-nguyen-xu-ly-anh/tong-hop-data-xu-ly-anh/
 
+https://viblo.asia/p/tim-hieu-ve-hoghistogram-of-oriented-gradients-m68Z0wL6KkG
+https://github.com/ikergarcia1996/Handwritten-Names-Recognition/blob/master/Notebook/Handwitten-Name-Recognition-ANNs.ipynb
